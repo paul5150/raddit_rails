@@ -43,4 +43,5 @@ group :development, :test do
   gem 'spring'
   gem 'devise'
   gem 'bootstrap-sass'
+  gem 'acts_as_votable'
 end
