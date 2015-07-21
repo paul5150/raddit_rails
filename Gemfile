@@ -44,4 +44,5 @@ group :development, :test do
   gem 'devise'
   gem 'bootstrap-sass'
   gem 'acts_as_votable'
+  gem 'simple_form'
 end
